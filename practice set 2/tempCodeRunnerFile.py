@@ -1,0 +1,1 @@
+print("square of a is",a*a)
