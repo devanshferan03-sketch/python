@@ -5,4 +5,4 @@ for i in range(1,11):
 
 #Inside { }, you can put variables, calculations, or even function calls.
 
-#Python will replace { } with the actual value when printing.
+#Python will replace { } with the actual value when printing. 
